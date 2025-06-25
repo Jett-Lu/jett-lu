@@ -8,7 +8,9 @@
 
 <hr>
 
-### 📁 Featured Repo (Rotates Daily)
+<p align="center">
+  <strong>Featured Repo (Rotates Daily)</strong><br>
+</p>
 
 ```text
 Each day, a random public project from my GitHub is featured here.
@@ -19,10 +21,14 @@ Refresh tomorrow to see something new.
 
 ---
 
-### 📇 Connect
+<p align="center">
+  <strong>Connect</strong><br>
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jettlu)
-- 📬 [Email](mailto:jett@example.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jettlu">LinkedIn</a> |
+  <a href="mailto:jett@example.com">Email</a>
+</p>
 
 ---
 
@@ -41,7 +47,7 @@ I value readable code, meaningful abstractions, and solving the right problems.
 
 ---
 <p align="center">
-  <strong>Tech Stack/strong><br>
+  <strong>Tech Stack</strong><br>
 </p>
 
 ```text
