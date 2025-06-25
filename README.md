@@ -23,13 +23,11 @@ Refresh tomorrow to see something new.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jettlu)
 - 📬 [Email](mailto:jett@example.com)
-- 📁 [Login Auth Service](https://github.com/Jett-Lu/Login-Authentication-Service-Cs)
 
 ---
 
 <p align="center">
   <strong>About Me</strong><br>
-  Software • Systems • Simplicity
 </p>
 
 ```text
@@ -42,8 +40,9 @@ I value readable code, meaningful abstractions, and solving the right problems.
 ```
 
 ---
-
-### 🔧 Tech Stack
+<p align="center">
+  <strong>Tech Stack/strong><br>
+</p>
 
 ```text
 Languages:     Python • JavaScript • C • C++ • C# • Bash • PowerShell
