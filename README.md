@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Software Engineering Technology @ McMaster University</strong><br>
-  DevOps • Automation • Accessibility • Open Source
+  DevOps • Automation • Open Source
 </p>
 
 <hr>
