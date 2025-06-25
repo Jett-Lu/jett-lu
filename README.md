@@ -4,28 +4,50 @@
 
 <p align="center">
   <strong>Software Engineering Technology @ McMaster University</strong><br>
-  DevOps • Automation • Open Source
 </p>
 
 <hr>
 
-<div align="center">
+### 📁 Featured Repo (Rotates Daily)
 
-| 🚀 Projects | 🛠️ Tools & Scripts | 📇 Connect |
-|------------|--------------------|-----------|
-| [Login Auth Service](https://github.com/Jett-Lu/Login-Authentication-Service-Cs) | Python, C#, Bash, React | [LinkedIn](https://www.linkedin.com/in/jettlu) • [Email](mailto:jett@example.com) |
+```text
+Each day, a random public project from my GitHub is featured here.
+Refresh tomorrow to see something new.
+```
 
-</div>
+<!-- FEATURED_REPO -->
 
-<hr>
+---
+
+### 📇 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jettlu)
+- 📬 [Email](mailto:jett@example.com)
+- 📁 [Login Auth Service](https://github.com/Jett-Lu/Login-Authentication-Service-Cs)
+
+---
 
 <p align="center">
   <strong>About Me</strong><br>
-  DevOps • Automation • Open Source
+  Software • Systems • Simplicity
 </p>
 
 ```text
-I'm a software engineering student who enjoys building practical, well-structured systems.
-Currently working at the Ontario Ministry of Transportation, helping automate lab workflows
-and ensuring government platforms meet accessibility standards.
-I value clean code, thoughtful design, and tools that actually get used.
+I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
+I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
+to platforms that scale with users.
+
+My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
+I value readable code, meaningful abstractions, and solving the right problems.
+```
+
+---
+
+### 🔧 Tech Stack
+
+```text
+Languages:     Python • JavaScript • C • C++ • C# • Bash • PowerShell
+Frameworks:    .NET • React • Node.js
+Tools:         Git • Docker • GitHub Actions • Selenium • Azure DevOps
+Other:         Web Accessibility (AODA, WCAG), RTOS, CI/CD, Networking, Security+
+```
