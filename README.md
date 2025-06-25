@@ -19,7 +19,7 @@
 
 <hr>
 
-### 🧭 About Me
+###About Me
 
 ```text
 I'm a software engineering student who enjoys building practical, well-structured systems.
