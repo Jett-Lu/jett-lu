@@ -18,18 +18,6 @@ Refresh tomorrow to see something new.
 ```
 
 <!-- FEATURED_REPO -->
-
----
-
-<p align="center">
-  <strong>Connect</strong><br>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jettlu">LinkedIn</a> |
-  <a href="mailto:jett@example.com">Email</a>
-</p>
-
 ---
 
 <p align="center">
@@ -56,3 +44,13 @@ Frameworks:    .NET • React • Node.js
 Tools:         Git • Docker • GitHub Actions • Selenium • Azure DevOps
 Other:         Web Accessibility (AODA, WCAG), RTOS, CI/CD, Networking, Security+
 ```
+---
+
+<p align="center">
+  <strong>Connect</strong><br>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jettlu">LinkedIn</a> |
+  <a href="mailto:jett@example.com">Email</a>
+</p>
