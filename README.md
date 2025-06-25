@@ -3,7 +3,7 @@
 <h1 align="center">Jett Lu</h1>
 
 <p align="center">
-  <strong>Software Engineering Technology @ McMaster University</strong><br>
+  <strong>SWE @ McMaster University</strong><br>
 </p>
 
 <hr>
