@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Software Engineering Technology @ McMaster University</strong><br>
-  DevOps • Automation • Accessibility • Open Source
+  DevOps • Automation • Open Source
 </p>
 
 <hr>
@@ -19,7 +19,10 @@
 
 <hr>
 
-### 🧭 About Me
+<p align="center">
+  <strong>About Me</strong><br>
+  DevOps • Automation • Open Source
+</p>
 
 ```text
 I'm a software engineering student who enjoys building practical, well-structured systems.
