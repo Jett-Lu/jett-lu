@@ -51,7 +51,7 @@ Other:         Web Accessibility (AODA, WCAG), RTOS, CI/CD, Networking, Security
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jettlu">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/jett-lu">LinkedIn</a> |
   <a href="mailto:jett@example.com">Email</a> |
   <a href="Resume-JettLu.pdf">Resume</a>
 </p>
