@@ -17,7 +17,22 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-<!-- FEATURED_REPO -->
+### 📁 Featured Repo (Rotates Daily)
+
+```text
+Each day, a random public project from my GitHub is featured here.
+Refresh tomorrow to see something new.
+```
+
+```text
+login-authentication-service-cs
+Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
+→ https://github.com/Jett-Lu/login-authentication-service-cs
+```
+
+_Last updated: 2025-07-02 17:23 UTC_
+
+
 ---
 
 <p align="center">
