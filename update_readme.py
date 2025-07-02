@@ -13,17 +13,15 @@ repos = [repo for repo in user.get_repos() if not repo.fork and not repo.private
 chosen = random.choice(repos)
 desc = chosen.description or "No description provided."
 
-```text
-{chosen.name}
+# Format the featured block
+featured_block = f"""\
+[**{chosen.name}**]({chosen.html_url})  
 {desc}
-→ {chosen.html_url}
-```
 
 _Last updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")}_
-
 """
 
-# Read template
+# Read the template
 with open("README.template.md", "r") as f:
     template = f.read()
 
