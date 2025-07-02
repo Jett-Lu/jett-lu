@@ -13,14 +13,6 @@ repos = [repo for repo in user.get_repos() if not repo.fork and not repo.private
 chosen = random.choice(repos)
 desc = chosen.description or "No description provided."
 
-# Format featured block
-featured_block = f"""### 📁 Featured Repo (Rotates Daily)
-
-```text
-Each day, a random public project from my GitHub is featured here.
-Refresh tomorrow to see something new.
-```
-
 ```text
 {chosen.name}
 {desc}
