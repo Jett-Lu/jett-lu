@@ -14,12 +14,11 @@ chosen = random.choice(repos)
 desc = chosen.description or "No description provided."
 
 # Format the featured block
-featured_block = f"""```text
-[{chosen.name}]({chosen.html_url})
+featured_block = f"""> **[{chosen.name}]({chosen.html_url})**  
 {desc}
 
-Last updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")}
-```"""
+_Last updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")}_"""
+
 
 # Read the template
 with open("README.template.md", "r") as f:
