@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
-Personal coding workspace & archive for experiments, small projects, and learning logs.
+> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
+Terminal-based airline reservation system in C with file-based persistence and seat logic.
 
-_Last updated: 2025-07-07 12:38 UTC_
+_Last updated: 2025-07-08 12:39 UTC_
 ---
 
 <p align="center">
