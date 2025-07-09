@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
-Terminal-based airline reservation system in C with file-based persistence and seat logic.
+> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
+ Simple number guessing game in C showcasing loops, randomness, and user interaction.
 
-_Last updated: 2025-07-08 12:39 UTC_
+_Last updated: 2025-07-09 12:39 UTC_
 ---
 
 <p align="center">
