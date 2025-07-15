@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu.github.io](https://github.com/Jett-Lu/jett-lu.github.io)**  
-Portfolio site with GitHub project feed, canvas game, and resume viewer. Built with HTML, CSS, and JS.
+> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
+ Simple number guessing game in C showcasing loops, randomness, and user interaction.
 
-_Last updated: 2025-07-14 12:40 UTC_
+_Last updated: 2025-07-15 12:40 UTC_
 ---
 
 <p align="center">
