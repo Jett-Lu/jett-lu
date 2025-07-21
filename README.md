@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[rtos-emergency-management-system](https://github.com/Jett-Lu/rtos-emergency-management-system)**  
-Simulated multitasking OS in C with task priorities, state queues, and real-time scheduling for embedded systems practice.
+> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
+Terminal-based airline reservation system in C with file-based persistence and seat logic.
 
-_Last updated: 2025-07-20 12:37 UTC_
+_Last updated: 2025-07-21 12:41 UTC_
 ---
 
 <p align="center">
