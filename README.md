@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[rtos-emergency-management-system](https://github.com/Jett-Lu/rtos-emergency-management-system)**  
-Simulated multitasking OS in C with task priorities, state queues, and real-time scheduling for embedded systems practice.
+> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
+ Simple number guessing game in C showcasing loops, randomness, and user interaction.
 
-_Last updated: 2025-07-24 12:41 UTC_
+_Last updated: 2025-07-25 12:40 UTC_
 ---
 
 <p align="center">
