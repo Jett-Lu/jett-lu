@@ -20,7 +20,7 @@ Refresh tomorrow to see something new.
 > **[jett-lu.github.io](https://github.com/Jett-Lu/jett-lu.github.io)**  
 Portfolio site with GitHub project feed, canvas game, and resume viewer. Built with HTML, CSS, and JS.
 
-_Last updated: 2025-08-05 12:43 UTC_
+_Last updated: 2025-08-06 12:43 UTC_
 ---
 
 <p align="center">
