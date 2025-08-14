@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[facial-recognition-door-lock](https://github.com/Jett-Lu/facial-recognition-door-lock)**  
-Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
+> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
+Personal coding workspace & archive for experiments, small projects, and learning logs.
 
-_Last updated: 2025-08-13 12:40 UTC_
+_Last updated: 2025-08-14 12:40 UTC_
 ---
 
 <p align="center">
