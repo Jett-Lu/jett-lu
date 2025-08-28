@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu.github.io](https://github.com/Jett-Lu/jett-lu.github.io)**  
-Portfolio site with GitHub project feed, canvas game, and resume viewer. Built with HTML, CSS, and JS.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors your PerfectMind badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2025-08-27 12:37 UTC_
+_Last updated: 2025-08-28 12:36 UTC_
 ---
 
 <p align="center">
