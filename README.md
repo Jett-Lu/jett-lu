@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
- Modular login system in C# with reusable class library and GUI/console test clients.
+> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
+Personal coding workspace & archive for experiments, small projects, and learning logs.
 
-_Last updated: 2025-09-12 12:34 UTC_
+_Last updated: 2025-09-13 12:31 UTC_
 ---
 
 <p align="center">
