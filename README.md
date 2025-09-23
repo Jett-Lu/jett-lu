@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
- Modular login system in C# with reusable class library and GUI/console test clients.
+> **[MousePresence](https://github.com/Jett-Lu/MousePresence)**  
+A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
 
-_Last updated: 2025-09-22 12:37 UTC_
+_Last updated: 2025-09-23 12:36 UTC_
 ---
 
 <p align="center">
