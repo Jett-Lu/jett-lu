@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
-Terminal-based airline reservation system in C with file-based persistence and seat logic.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors your PerfectMind badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2025-10-13 12:37 UTC_
+_Last updated: 2025-10-14 12:39 UTC_
 ---
 
 <p align="center">
