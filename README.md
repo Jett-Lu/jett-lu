@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
-Personal coding workspace & archive for experiments, small projects, and learning logs.
+> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
+ C# Windows Forms airline booking system with real-time seat management and form validation.
 
-_Last updated: 2025-10-17 12:37 UTC_
+_Last updated: 2025-10-18 12:33 UTC_
 ---
 
 <p align="center">
