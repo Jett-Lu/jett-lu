@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
-Personal coding workspace & archive for experiments, small projects, and learning logs.
+> **[MousePresence](https://github.com/Jett-Lu/MousePresence)**  
+A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
 
-_Last updated: 2025-10-22 12:39 UTC_
+_Last updated: 2025-10-23 12:39 UTC_
 ---
 
 <p align="center">
