@@ -29,7 +29,7 @@ _Last updated: 2025-10-31 12:38 UTC_
 
 ```text
 I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
-I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
+I enjoy building tools that are practical, reliable, and easy to maintain, from scripts that speed up dev workflows
 to platforms that scale with users.
 
 My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
