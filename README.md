@@ -20,7 +20,7 @@ Refresh tomorrow to see something new.
 > **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
 Terminal-based airline reservation system in C with file-based persistence and seat logic.
 
-_Last updated: 2025-11-02 12:33 UTC_
+_Last updated: 2025-11-03 12:39 UTC_
 ---
 
 <p align="center">
