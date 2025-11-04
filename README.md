@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
-Terminal-based airline reservation system in C with file-based persistence and seat logic.
+> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
+ C# Windows Forms airline booking system with real-time seat management and form validation.
 
-_Last updated: 2025-11-03 12:39 UTC_
+_Last updated: 2025-11-04 12:41 UTC_
 ---
 
 <p align="center">
