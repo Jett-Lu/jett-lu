@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[login-authentication-service-cs](https://github.com/Jett-Lu/login-authentication-service-cs)**  
-Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
+> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
+ Simple number guessing game in C showcasing loops, randomness, and user interaction.
 
-_Last updated: 2025-11-07 12:37 UTC_
+_Last updated: 2025-11-08 12:34 UTC_
 ---
 
 <p align="center">
