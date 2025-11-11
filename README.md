@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[facial-recognition-door-lock](https://github.com/Jett-Lu/facial-recognition-door-lock)**  
-Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors your PerfectMind badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2025-11-10 12:39 UTC_
+_Last updated: 2025-11-11 12:38 UTC_
 ---
 
 <p align="center">
