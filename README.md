@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[rtos-emergency-management-system](https://github.com/Jett-Lu/rtos-emergency-management-system)**  
-Simulated multitasking OS in C with task priorities, state queues, and real-time scheduling for embedded systems practice.
+> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
+Personal coding workspace & archive for experiments, small projects, and learning logs.
 
-_Last updated: 2025-11-15 12:34 UTC_
+_Last updated: 2025-11-16 12:34 UTC_
 ---
 
 <p align="center">
