@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
- C# Windows Forms airline booking system with real-time seat management and form validation.
+> **[facial-recognition-door-lock](https://github.com/Jett-Lu/facial-recognition-door-lock)**  
+Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
 
-_Last updated: 2025-11-19 12:40 UTC_
+_Last updated: 2025-11-20 12:38 UTC_
 ---
 
 <p align="center">
