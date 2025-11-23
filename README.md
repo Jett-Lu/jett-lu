@@ -20,7 +20,7 @@ Refresh tomorrow to see something new.
 > **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
 Jett’s Magna Badminton Alert is a simple browser extension that monitors your PerfectMind badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2025-11-22 12:33 UTC_
+_Last updated: 2025-11-23 12:33 UTC_
 ---
 
 <p align="center">
