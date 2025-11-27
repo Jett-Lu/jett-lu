@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[SeatScout](https://github.com/Jett-Lu/SeatScout)**  
-SeatScout is a Python + Flask web service that tracks seat availability for McMaster courses in real time. Visitors can subscribe to specific CRNs and sections and receive email alerts the moment a spot opens up. No login required. SeatScout handles data scraping and notifications on your behalf. - WIP
+> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
+ Modular login system in C# with reusable class library and GUI/console test clients.
 
-_Last updated: 2025-11-26 12:41 UTC_
+_Last updated: 2025-11-27 12:40 UTC_
 ---
 
 <p align="center">
