@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[login-authentication-service-cs](https://github.com/Jett-Lu/login-authentication-service-cs)**  
-Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
+> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
+ C# Windows Forms airline booking system with real-time seat management and form validation.
 
-_Last updated: 2025-11-29 12:36 UTC_
+_Last updated: 2025-11-30 12:35 UTC_
 ---
 
 <p align="center">
