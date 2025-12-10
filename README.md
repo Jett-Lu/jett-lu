@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
- Simple number guessing game in C showcasing loops, randomness, and user interaction.
+> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
+ Modular login system in C# with reusable class library and GUI/console test clients.
 
-_Last updated: 2025-12-09 12:42 UTC_
+_Last updated: 2025-12-10 12:42 UTC_
 ---
 
 <p align="center">
