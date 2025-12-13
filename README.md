@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[MousePresence](https://github.com/Jett-Lu/MousePresence)**  
-A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
+> **[visitor-card-tracker](https://github.com/Jett-Lu/visitor-card-tracker)**  
+Standalone Python + Tkinter desktop application that manages sign-outs and returns for visitor and lab access cards. It features an SQLite backend with WAL mode for multi-user network access
 
-_Last updated: 2025-12-12 12:41 UTC_
+_Last updated: 2025-12-13 12:37 UTC_
 ---
 
 <p align="center">
