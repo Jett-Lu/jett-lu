@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[visitor-card-tracker](https://github.com/Jett-Lu/visitor-card-tracker)**  
-Standalone Python + Tkinter desktop application that manages sign-outs and returns for visitor and lab access cards. It features an SQLite backend with WAL mode for multi-user network access
+> **[rtos-emergency-management-system](https://github.com/Jett-Lu/rtos-emergency-management-system)**  
+Simulated multitasking OS in C with task priorities, state queues, and real-time scheduling for embedded systems practice.
 
-_Last updated: 2025-12-13 12:37 UTC_
+_Last updated: 2025-12-14 12:37 UTC_
 ---
 
 <p align="center">
