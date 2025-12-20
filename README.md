@@ -28,12 +28,11 @@ _Last updated: 2025-12-19 12:40 UTC_
 </p>
 
 ```text
-I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
-I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
-to platforms that scale with users.
+Software engineering student with production experience in regulated environments. Contributed to Laboratory Information Management Systems (LIMS) at the Ontario Ministry of Transportation through system testing, CI/CD automation, infrastructure optimization, and AODA/WCAG compliance. Collaborated across QA, IT, and engineering teams to enhance data integrity, traceability, operational efficiency, and documentation.
 
-My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
-I value readable code, meaningful abstractions, and solving the right problems.
+Developed infrastructure automation and security expertise in prior co-op roles at Kinectrics and Tek Support. Implemented PowerShell automation frameworks that reduced testing time by 40%, conducted security audits with CrowdStrike and Lansweeper to cut vulnerabilities by 30%, managed Active Directory and endpoint protection, and supported high-uptime Windows and Linux environments for over 100 users.
+
+Pursuing Bachelor of Technology in Software Engineering at McMaster University. Proficient in C, Python, and PowerShell. Focused on systems programming, DevOps, backend development, and hardware-software integration. 
 ```
 
 ---
