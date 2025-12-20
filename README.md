@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
-Personal coding workspace & archive for experiments, small projects, and learning logs.
+> **[login-authentication-service-cs](https://github.com/Jett-Lu/login-authentication-service-cs)**  
+Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
 
-_Last updated: 2025-12-19 12:40 UTC_
+_Last updated: 2025-12-20 12:36 UTC_
 ---
 
 <p align="center">
@@ -28,17 +28,12 @@ _Last updated: 2025-12-19 12:40 UTC_
 </p>
 
 ```text
-Software engineering student at McMaster University with production experience in regulated environments.
+I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
+I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
+to platforms that scale with users.
 
-Contributed to Laboratory Information Management Systems (LIMS) at the Ontario Ministry of Transportation:
-• System testing, CI/CD automation, infrastructure optimization
-• Ensured AODA/WCAG compliance
-• Collaborated with QA, IT, and engineering teams to enhance data integrity, traceability, efficiency, and documentation
-
-Developed expertise in infrastructure automation and security through previous roles:
-• Built PowerShell automation frameworks that reduced testing time by 40%
-• Conducted security audits (CrowdStrike, Lansweeper) that cut vulnerabilities by 30%
-• Managed Active Directory, endpoint protection, and high-uptime Windows/Linux environments for 100+ users
+My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
+I value readable code, meaningful abstractions, and solving the right problems.
 ```
 
 ---
