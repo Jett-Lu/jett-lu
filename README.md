@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[login-authentication-service-cs](https://github.com/Jett-Lu/login-authentication-service-cs)**  
-Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors your PerfectMind badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2025-12-20 12:36 UTC_
+_Last updated: 2025-12-21 12:37 UTC_
 ---
 
 <p align="center">
