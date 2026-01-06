@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
- Modular login system in C# with reusable class library and GUI/console test clients.
+> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
+Terminal-based airline reservation system in C with file-based persistence and seat logic.
 
-_Last updated: 2026-01-05 12:44 UTC_
+_Last updated: 2026-01-06 12:42 UTC_
 ---
 
 <p align="center">
