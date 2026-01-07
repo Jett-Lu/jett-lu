@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
-Terminal-based airline reservation system in C with file-based persistence and seat logic.
+> **[MousePresence](https://github.com/Jett-Lu/MousePresence)**  
+A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
 
-_Last updated: 2026-01-06 12:42 UTC_
+_Last updated: 2026-01-07 12:43 UTC_
 ---
 
 <p align="center">
