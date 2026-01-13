@@ -20,7 +20,7 @@ Refresh tomorrow to see something new.
 > **[rtos-emergency-management-system](https://github.com/Jett-Lu/rtos-emergency-management-system)**  
 Simulated multitasking OS in C with task priorities, state queues, and real-time scheduling for embedded systems practice.
 
-_Last updated: 2026-01-12 12:45 UTC_
+_Last updated: 2026-01-13 12:45 UTC_
 ---
 
 <p align="center">
