@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[SeatScout](https://github.com/Jett-Lu/SeatScout)**  
-SeatScout is a Python + Flask web service that tracks seat availability for McMaster courses in real time. Visitors can subscribe to specific CRNs and sections and receive email alerts the moment a spot opens up. No login required. SeatScout handles data scraping and notifications on your behalf. - WIP
+> **[rtos-emergency-management-system](https://github.com/Jett-Lu/rtos-emergency-management-system)**  
+Simulated multitasking OS in C with task priorities, state queues, and real-time scheduling for embedded systems practice.
 
-_Last updated: 2026-01-20 12:49 UTC_
+_Last updated: 2026-01-21 12:48 UTC_
 ---
 
 <p align="center">
