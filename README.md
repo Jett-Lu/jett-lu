@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[rtos-emergency-management-system](https://github.com/Jett-Lu/rtos-emergency-management-system)**  
-Simulated multitasking OS in C with task priorities, state queues, and real-time scheduling for embedded systems practice.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors your PerfectMind badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2026-01-21 12:48 UTC_
+_Last updated: 2026-01-22 12:48 UTC_
 ---
 
 <p align="center">
