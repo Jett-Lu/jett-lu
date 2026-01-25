@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[SeatScout](https://github.com/Jett-Lu/SeatScout)**  
-SeatScout is a Python + Flask web service that tracks seat availability for McMaster courses in real time. Visitors can subscribe to specific CRNs and sections and receive email alerts the moment a spot opens up. No login required. SeatScout handles data scraping and notifications on your behalf. - WIP
+> **[jett-lu.github.io](https://github.com/Jett-Lu/jett-lu.github.io)**  
+Portfolio site with GitHub project feed, canvas game, and resume viewer. Built with HTML, CSS, and JS.
 
-_Last updated: 2026-01-24 12:39 UTC_
+_Last updated: 2026-01-25 12:40 UTC_
 ---
 
 <p align="center">
