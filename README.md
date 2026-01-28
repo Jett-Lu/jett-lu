@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
- Simple number guessing game in C showcasing loops, randomness, and user interaction.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors your PerfectMind badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2026-01-27 12:49 UTC_
+_Last updated: 2026-01-28 12:49 UTC_
 ---
 
 <p align="center">
