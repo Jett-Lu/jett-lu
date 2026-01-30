@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[MousePresence](https://github.com/Jett-Lu/MousePresence)**  
-A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
+> **[SeatScout](https://github.com/Jett-Lu/SeatScout)**  
+SeatScout is a Python + Flask web service that tracks seat availability for McMaster courses in real time. Visitors can subscribe to specific CRNs and sections and receive email alerts the moment a spot opens up. No login required. SeatScout handles data scraping and notifications on your behalf. - WIP
 
-_Last updated: 2026-01-29 12:55 UTC_
+_Last updated: 2026-01-30 12:53 UTC_
 ---
 
 <p align="center">
