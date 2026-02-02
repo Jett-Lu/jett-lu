@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[MousePresence](https://github.com/Jett-Lu/MousePresence)**  
-A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors https://newmarket.perfectmind.com/ badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2026-02-01 12:48 UTC_
+_Last updated: 2026-02-02 12:57 UTC_
 ---
 
 <p align="center">
