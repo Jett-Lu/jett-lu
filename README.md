@@ -28,12 +28,13 @@ _Last updated: 2026-02-06 12:57 UTC_
 </p>
 
 ```text
-I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
-I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
-to platforms that scale with users.
+Software engineering student with a focus on automation, infrastructure, and robust systems design.
+Experienced in building practical, maintainable tools that improve development workflows and support
+scalable, reliable operation.
 
-My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
-I value readable code, meaningful abstractions, and solving the right problems.
+Strong interests in DevOps, accessibility, embedded systems, and cybersecurity, with an emphasis on
+writing clear, well-structured code and designing solutions that prioritize correctness, stability,
+and long-term maintainability.
 ```
 
 ---
