@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
-Terminal-based airline reservation system in C with file-based persistence and seat logic.
+> **[login-authentication-service-cs](https://github.com/Jett-Lu/login-authentication-service-cs)**  
+Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
 
-_Last updated: 2026-02-06 12:57 UTC_
+_Last updated: 2026-02-07 12:47 UTC_
 ---
 
 <p align="center">
@@ -28,13 +28,12 @@ _Last updated: 2026-02-06 12:57 UTC_
 </p>
 
 ```text
-Software engineering student with a focus on automation, infrastructure, and robust systems design.
-Experienced in building practical, maintainable tools that improve development workflows and support
-scalable, reliable operation.
+I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
+I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
+to platforms that scale with users.
 
-Strong interests in DevOps, accessibility, embedded systems, and cybersecurity, with an emphasis on
-writing clear, well-structured code and designing solutions that prioritize correctness, stability,
-and long-term maintainability.
+My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
+I value readable code, meaningful abstractions, and solving the right problems.
 ```
 
 ---
