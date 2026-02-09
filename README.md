@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[SeatScout](https://github.com/Jett-Lu/SeatScout)**  
-SeatScout is a Python + Flask web service that tracks seat availability for McMaster courses in real time. Visitors can subscribe to specific CRNs and sections and receive email alerts the moment a spot opens up. No login required. SeatScout handles data scraping and notifications on your behalf. - WIP
+> **[facial-recognition-door-lock](https://github.com/Jett-Lu/facial-recognition-door-lock)**  
+Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
 
-_Last updated: 2026-02-08 12:48 UTC_
+_Last updated: 2026-02-09 13:07 UTC_
 ---
 
 <p align="center">
