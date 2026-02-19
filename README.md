@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
-Personal coding workspace & archive for experiments, small projects, and learning logs.
+> **[rtos-emergency-management-system](https://github.com/Jett-Lu/rtos-emergency-management-system)**  
+A FreeRTOS based real time embedded system demonstrating multitasking, interrupt driven control, and priority based emergency handling on an NXP microcontroller.
 
-_Last updated: 2026-02-18 13:02 UTC_
+_Last updated: 2026-02-19 13:03 UTC_
 ---
 
 <p align="center">
