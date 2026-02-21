@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
- C# Windows Forms airline booking system with real-time seat management and form validation.
+> **[FreeRTOS-Emergency-Control-System](https://github.com/Jett-Lu/FreeRTOS-Emergency-Control-System)**  
+A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
 
-_Last updated: 2026-02-20 12:57 UTC_
+_Last updated: 2026-02-21 12:45 UTC_
 ---
 
 <p align="center">
