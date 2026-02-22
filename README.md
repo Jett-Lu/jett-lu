@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[FreeRTOS-Emergency-Control-System](https://github.com/Jett-Lu/FreeRTOS-Emergency-Control-System)**  
-A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
+> **[SeatScout](https://github.com/Jett-Lu/SeatScout)**  
+SeatScout is a Python tool that tracks course seat availability (e.g., McMaster CRNs) in real time and lets users subscribe to specific sections. Subscribers receive email notifications the moment a spot opens up. No login required, this project handles scraping, availability tracking, and alerting in a single package.
 
-_Last updated: 2026-02-21 12:45 UTC_
+_Last updated: 2026-02-22 12:48 UTC_
 ---
 
 <p align="center">
