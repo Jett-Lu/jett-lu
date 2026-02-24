@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[MousePresence](https://github.com/Jett-Lu/MousePresence)**  
-A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
+> **[sqlite-airline-management-app](https://github.com/Jett-Lu/sqlite-airline-management-app)**  
+A C# Windows Forms airline management system using SQLite and Entity Framework for booking, seat management, and persistent reservation storage.
 
-_Last updated: 2026-02-23 13:02 UTC_
+_Last updated: 2026-02-24 13:04 UTC_
 ---
 
 <p align="center">
