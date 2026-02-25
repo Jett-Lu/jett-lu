@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sqlite-airline-management-app](https://github.com/Jett-Lu/sqlite-airline-management-app)**  
-A C# Windows Forms airline management system using SQLite and Entity Framework for booking, seat management, and persistent reservation storage.
+> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
+ Modular login system in C# with reusable class library and GUI/console test clients.
 
-_Last updated: 2026-02-24 13:04 UTC_
+_Last updated: 2026-02-25 13:02 UTC_
 ---
 
 <p align="center">
