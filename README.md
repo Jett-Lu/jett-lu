@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[IntelliGuard](https://github.com/Jett-Lu/IntelliGuard)**  
-Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
+> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
+ Simple number guessing game in C showcasing loops, randomness, and user interaction.
 
-_Last updated: 2026-03-03 12:55 UTC_
+_Last updated: 2026-03-04 12:55 UTC_
 ---
 
 <p align="center">
