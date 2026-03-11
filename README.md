@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[IntelliGuard](https://github.com/Jett-Lu/IntelliGuard)**  
-Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
+> **[SeatScout](https://github.com/Jett-Lu/SeatScout)**  
+SeatScout is a Python tool that tracks course seat availability (e.g., McMaster CRNs) in real time and lets users subscribe to specific sections. Subscribers receive email notifications the moment a spot opens up. No login required, this project handles scraping, availability tracking, and alerting in a single package.
 
-_Last updated: 2026-03-10 12:58 UTC_
+_Last updated: 2026-03-11 12:58 UTC_
 ---
 
 <p align="center">
