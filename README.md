@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[FreeRTOS-Emergency-Control-System](https://github.com/Jett-Lu/FreeRTOS-Emergency-Control-System)**  
-A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
+> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
+ Modular login system in C# with reusable class library and GUI/console test clients.
 
-_Last updated: 2026-03-12 12:58 UTC_
+_Last updated: 2026-03-13 12:57 UTC_
 ---
 
 <p align="center">
