@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[visitor-card-tracker](https://github.com/Jett-Lu/visitor-card-tracker)**  
-Standalone Python + Tkinter desktop application that manages sign-outs and returns for visitor and lab access cards. It features an SQLite backend with WAL mode for multi-user network access
+> **[bring-your-own-ai](https://github.com/Jett-Lu/bring-your-own-ai)**  
+Security-first multi-provider AI chat platform with a React frontend and Node.js backend. Users connect their own OpenAI, Anthropic, Google, or local Ollama credentials through a unified conversational interface.
 
-_Last updated: 2026-03-15 12:51 UTC_
+_Last updated: 2026-03-16 13:10 UTC_
 ---
 
 <p align="center">
