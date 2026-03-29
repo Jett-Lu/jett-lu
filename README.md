@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[seat-scout](https://github.com/Jett-Lu/seat-scout)**  
-Seat Scout is a Python tool that tracks course seat availability (e.g., McMaster CRNs) in real time and lets users subscribe to specific sections. Subscribers receive email notifications the moment a spot opens up. No login required, this project handles scraping, availability tracking, and alerting in a single package.
+> **[visitor-card-tracker](https://github.com/Jett-Lu/visitor-card-tracker)**  
+Standalone Python + Tkinter desktop application that manages sign-outs and returns for visitor and lab access cards. It features an SQLite backend with WAL mode for multi-user network access
 
-_Last updated: 2026-03-28 12:53 UTC_
+_Last updated: 2026-03-29 12:54 UTC_
 ---
 
 <p align="center">
