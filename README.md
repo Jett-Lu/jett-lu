@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[visitor-card-tracker](https://github.com/Jett-Lu/visitor-card-tracker)**  
-Standalone Python + Tkinter desktop application that manages sign-outs and returns for visitor and lab access cards. It features an SQLite backend with WAL mode for multi-user network access
+> **[jett-lu.github.io](https://github.com/Jett-Lu/jett-lu.github.io)**  
+Portfolio site with GitHub project feed, canvas game, and resume viewer. Built with HTML, CSS, and JS.
 
-_Last updated: 2026-03-29 12:54 UTC_
+_Last updated: 2026-03-30 13:18 UTC_
 ---
 
 <p align="center">
@@ -28,22 +28,12 @@ _Last updated: 2026-03-29 12:54 UTC_
 </p>
 
 ```text
-Software Engineering student with hands-on experience in regulated government environments. Currently supportingsystem deployment
-and lab infrastructureat Ontario Lottery and Gaming Corporation, where I develop internal automation tools/scripts, integrate
-vendor APIs for streamlined workflows, and coordinate application/patch deployments across controlled Linux and Windows
-environments to ensure configuration integrity, deployment readiness, and stable integration testing.
+I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
+I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
+to platforms that scale with users.
 
-
-Previously contributed as a Software Engineering Associate at the Ontario Ministry of Transportation, developing software tools,
-automation scripts, and CI/CD pipeline enhancements for Laboratory Information Management Systems (LIMS) supporting province-wide
-workflows. Performed system-level QA testing/validation, identified bottlenecks and implemented data-driven automation to reduce
-manual effort and processing time, deployed hardware safety solutions (sensors/monitoring) for lab health & safety, and improved
-LIMS web portal accessibility in full alignment with AODA and WCAG standards.
-
-
-Pursuing a Bachelor of Technology in Software Engineering Technology at McMaster University, with a focus on systems programming,
-infrastructure engineering, DevOps, CI/CD, networking, security, and advanced programming concepts. Proficient in C, Python,
-PowerShell, and tools for automation, configuration management, and deployment. 
+My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
+I value readable code, meaningful abstractions, and solving the right problems.
 ```
 
 ---
