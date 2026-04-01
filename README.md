@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
-Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
+> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
+Terminal-based airline reservation system in C with file-based persistence and seat logic.
 
-_Last updated: 2026-03-31 13:16 UTC_
+_Last updated: 2026-04-01 13:20 UTC_
 ---
 
 <p align="center">
