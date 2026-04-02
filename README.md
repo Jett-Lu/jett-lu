@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
-Terminal-based airline reservation system in C with file-based persistence and seat logic.
+> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
+Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
 
-_Last updated: 2026-04-01 13:20 UTC_
+_Last updated: 2026-04-02 13:12 UTC_
 ---
 
 <p align="center">
