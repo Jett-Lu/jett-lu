@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
-A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
+> **[intelli-guard](https://github.com/Jett-Lu/intelli-guard)**  
+Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
 
-_Last updated: 2026-04-03 13:02 UTC_
+_Last updated: 2026-04-04 12:54 UTC_
 ---
 
 <p align="center">
