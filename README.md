@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[seat-scout](https://github.com/Jett-Lu/seat-scout)**  
-Seat Scout is a Python tool that tracks course seat availability (e.g., McMaster CRNs) in real time and lets users subscribe to specific sections. Subscribers receive email notifications the moment a spot opens up. No login required, this project handles scraping, availability tracking, and alerting in a single package.
+> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
+ Simple number guessing game in C showcasing loops, randomness, and user interaction.
 
-_Last updated: 2026-04-05 12:56 UTC_
+_Last updated: 2026-04-06 13:08 UTC_
 ---
 
 <p align="center">
