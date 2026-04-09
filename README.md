@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
-Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
+> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
+ Simple number guessing game in C showcasing loops, randomness, and user interaction.
 
-_Last updated: 2026-04-08 13:18 UTC_
+_Last updated: 2026-04-09 13:25 UTC_
 ---
 
 <p align="center">
