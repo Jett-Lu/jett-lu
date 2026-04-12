@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[mouse-presence](https://github.com/Jett-Lu/mouse-presence)**  
-A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
+> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
+Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
 
-_Last updated: 2026-04-11 12:56 UTC_
+_Last updated: 2026-04-12 12:59 UTC_
 ---
 
 <p align="center">
