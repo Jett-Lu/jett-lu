@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu.github.io](https://github.com/Jett-Lu/jett-lu.github.io)**  
-Portfolio site with GitHub project feed, canvas game, and resume viewer. Built with HTML, CSS, and JS.
+> **[sqlite-airline-management-app](https://github.com/Jett-Lu/sqlite-airline-management-app)**  
+A C# Windows Forms airline management system using SQLite and Entity Framework for booking, seat management, and persistent reservation storage.
 
-_Last updated: 2026-04-17 13:18 UTC_
+_Last updated: 2026-04-18 13:00 UTC_
 ---
 
 <p align="center">
