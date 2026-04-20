@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
- C# Windows Forms airline booking system with real-time seat management and form validation.
+> **[bring-your-own-ai](https://github.com/Jett-Lu/bring-your-own-ai)**  
+Security-first multi-provider AI chat platform with a React frontend and Node.js backend. Users connect their own OpenAI, Anthropic, Google, or local Ollama credentials through a unified conversational interface.
 
-_Last updated: 2026-04-19 12:59 UTC_
+_Last updated: 2026-04-20 13:27 UTC_
 ---
 
 <p align="center">
