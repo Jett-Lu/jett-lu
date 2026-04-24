@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-log](https://github.com/Jett-Lu/sentinel-log)**  
-Lightweight telemetry logging system built in Python with cloud PostgreSQL, structured architecture, and external API integration.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors https://newmarket.perfectmind.com/ badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2026-04-23 13:27 UTC_
+_Last updated: 2026-04-24 13:21 UTC_
 ---
 
 <p align="center">
