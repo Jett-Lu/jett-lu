@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
-Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
+> **[login-authentication-service-cs](https://github.com/Jett-Lu/login-authentication-service-cs)**  
+Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
 
-_Last updated: 2026-05-07 14:05 UTC_
+_Last updated: 2026-05-08 13:45 UTC_
 ---
 
 <p align="center">
