@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
-Terminal-based airline reservation system in C with file-based persistence and seat logic.
+> **[intelli-guard](https://github.com/Jett-Lu/intelli-guard)**  
+Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
 
-_Last updated: 2026-05-09 13:15 UTC_
+_Last updated: 2026-05-10 13:16 UTC_
 ---
 
 <p align="center">
