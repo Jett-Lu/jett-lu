@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[intelli-guard](https://github.com/Jett-Lu/intelli-guard)**  
-Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
+> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
+ Modular login system in C# with reusable class library and GUI/console test clients.
 
-_Last updated: 2026-05-10 13:16 UTC_
+_Last updated: 2026-05-11 14:47 UTC_
 ---
 
 <p align="center">
