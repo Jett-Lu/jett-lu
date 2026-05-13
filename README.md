@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-log](https://github.com/Jett-Lu/sentinel-log)**  
-Lightweight telemetry logging system built in Python with cloud PostgreSQL, structured architecture, and external API integration.
+> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
+ Modular login system in C# with reusable class library and GUI/console test clients.
 
-_Last updated: 2026-05-12 14:22 UTC_
+_Last updated: 2026-05-13 14:31 UTC_
 ---
 
 <p align="center">
