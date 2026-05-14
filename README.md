@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
- Modular login system in C# with reusable class library and GUI/console test clients.
+> **[seat-scout](https://github.com/Jett-Lu/seat-scout)**  
+Seat Scout is a Python tool that tracks course seat availability (e.g., McMaster CRNs) in real time and lets users subscribe to specific sections. Subscribers receive email notifications the moment a spot opens up. No login required, this project handles scraping, availability tracking, and alerting in a single package.
 
-_Last updated: 2026-05-13 14:31 UTC_
+_Last updated: 2026-05-14 14:09 UTC_
 ---
 
 <p align="center">
