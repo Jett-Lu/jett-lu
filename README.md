@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
-Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
+> **[jett-lu.github.io](https://github.com/Jett-Lu/jett-lu.github.io)**  
+Portfolio site with GitHub project feed, canvas game, and resume viewer. Built with HTML, CSS, and JS.
 
-_Last updated: 2026-05-15 14:04 UTC_
+_Last updated: 2026-05-16 13:19 UTC_
 ---
 
 <p align="center">
