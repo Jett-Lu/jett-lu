@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
-Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
+> **[bring-your-own-ai](https://github.com/Jett-Lu/bring-your-own-ai)**  
+Security-first multi-provider AI chat platform with a React frontend and Node.js backend. Users connect their own OpenAI, Anthropic, Google, or local Ollama credentials through a unified conversational interface.
 
-_Last updated: 2026-05-17 13:18 UTC_
+_Last updated: 2026-05-18 15:30 UTC_
 ---
 
 <p align="center">
