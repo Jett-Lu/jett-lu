@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[bring-your-own-ai](https://github.com/Jett-Lu/bring-your-own-ai)**  
-Security-first multi-provider AI chat platform with a React frontend and Node.js backend. Users connect their own OpenAI, Anthropic, Google, or local Ollama credentials through a unified conversational interface.
+> **[sentinel-log](https://github.com/Jett-Lu/sentinel-log)**  
+Lightweight telemetry logging system built in Python with cloud PostgreSQL, structured architecture, and external API integration.
 
-_Last updated: 2026-05-18 15:30 UTC_
+_Last updated: 2026-05-19 15:18 UTC_
 ---
 
 <p align="center">
