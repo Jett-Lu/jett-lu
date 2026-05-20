@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-log](https://github.com/Jett-Lu/sentinel-log)**  
-Lightweight telemetry logging system built in Python with cloud PostgreSQL, structured architecture, and external API integration.
+> **[sqlite-airline-management-app](https://github.com/Jett-Lu/sqlite-airline-management-app)**  
+A C# Windows Forms airline management system using SQLite and Entity Framework for booking, seat management, and persistent reservation storage.
 
-_Last updated: 2026-05-19 15:18 UTC_
+_Last updated: 2026-05-20 15:17 UTC_
 ---
 
 <p align="center">
