@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sqlite-airline-management-app](https://github.com/Jett-Lu/sqlite-airline-management-app)**  
-A C# Windows Forms airline management system using SQLite and Entity Framework for booking, seat management, and persistent reservation storage.
+> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
+ Simple number guessing game in C showcasing loops, randomness, and user interaction.
 
-_Last updated: 2026-05-22 14:36 UTC_
+_Last updated: 2026-05-23 13:22 UTC_
 ---
 
 <p align="center">
