@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
-Terminal-based airline reservation system in C with file-based persistence and seat logic.
+> **[sqlite-airline-management-app](https://github.com/Jett-Lu/sqlite-airline-management-app)**  
+A C# Windows Forms airline management system using SQLite and Entity Framework for booking, seat management, and persistent reservation storage.
 
-_Last updated: 2026-05-24 13:23 UTC_
+_Last updated: 2026-05-25 14:51 UTC_
 ---
 
 <p align="center">
