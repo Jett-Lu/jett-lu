@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[visitor-card-tracker](https://github.com/Jett-Lu/visitor-card-tracker)**  
-Standalone Python + Tkinter desktop application that manages sign-outs and returns for visitor and lab access cards. It features an SQLite backend with WAL mode for multi-user network access
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors https://newmarket.perfectmind.com/ badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2026-06-03 16:46 UTC_
+_Last updated: 2026-06-04 14:58 UTC_
 ---
 
 <p align="center">
