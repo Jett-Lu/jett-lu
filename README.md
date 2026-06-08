@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[opencv-anomaly-monitor](https://github.com/Jett-Lu/opencv-anomaly-monitor)**  
-A lightweight computer vision and AI pose-estimation tool for detecting unusual activity in camera or video feeds.
+> **[visitor-card-tracker](https://github.com/Jett-Lu/visitor-card-tracker)**  
+Standalone Python + Tkinter desktop application that manages sign-outs and returns for visitor and lab access cards. It features an SQLite backend with WAL mode for multi-user network access
 
-_Last updated: 2026-06-07 13:50 UTC_
+_Last updated: 2026-06-08 15:49 UTC_
 ---
 
 <p align="center">
