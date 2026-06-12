@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sqlite-airline-management-app](https://github.com/Jett-Lu/sqlite-airline-management-app)**  
-A C# Windows Forms airline management system using SQLite and Entity Framework for booking, seat management, and persistent reservation storage.
+> **[computer-vision-predictive-surveillance-system](https://github.com/Jett-Lu/computer-vision-predictive-surveillance-system)**  
+Computer vision based predictive surveillance and anomaly detection system using OpenCV and machine learning to identify high risk behaviors and generate real time alerts from video feeds.
 
-_Last updated: 2026-06-11 15:58 UTC_
+_Last updated: 2026-06-12 14:55 UTC_
 ---
 
 <p align="center">
