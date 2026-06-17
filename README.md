@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[bring-your-own-ai](https://github.com/Jett-Lu/bring-your-own-ai)**  
-Security-first multi-provider AI chat platform with a React frontend and Node.js backend. Users connect their own OpenAI, Anthropic, Google, or local Ollama credentials through a unified conversational interface.
+> **[computer-vision-predictive-surveillance-system](https://github.com/Jett-Lu/computer-vision-predictive-surveillance-system)**  
+Computer vision based predictive surveillance and anomaly detection system using OpenCV and machine learning to identify high risk behaviors and generate real time alerts from video feeds.
 
-_Last updated: 2026-06-16 16:49 UTC_
+_Last updated: 2026-06-17 15:26 UTC_
 ---
 
 <p align="center">
