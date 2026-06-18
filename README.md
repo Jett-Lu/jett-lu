@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[computer-vision-predictive-surveillance-system](https://github.com/Jett-Lu/computer-vision-predictive-surveillance-system)**  
-Computer vision based predictive surveillance and anomaly detection system using OpenCV and machine learning to identify high risk behaviors and generate real time alerts from video feeds.
+> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
+Prompto, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
 
-_Last updated: 2026-06-17 15:26 UTC_
+_Last updated: 2026-06-18 15:21 UTC_
 ---
 
 <p align="center">
