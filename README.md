@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
-Prompto, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
+> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
+ C# Windows Forms airline booking system with real-time seat management and form validation.
 
-_Last updated: 2026-06-18 15:21 UTC_
+_Last updated: 2026-06-19 15:12 UTC_
 ---
 
 <p align="center">
