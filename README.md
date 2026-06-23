@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[login-authentication-service-cs](https://github.com/Jett-Lu/login-authentication-service-cs)**  
-Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
+> **[bring-your-own-ai](https://github.com/Jett-Lu/bring-your-own-ai)**  
+Security-first multi-provider AI chat platform with a React frontend and Node.js backend. Users connect their own OpenAI, Anthropic, Google, or local Ollama credentials through a unified conversational interface.
 
-_Last updated: 2026-06-22 16:53 UTC_
+_Last updated: 2026-06-23 14:45 UTC_
 ---
 
 <p align="center">
