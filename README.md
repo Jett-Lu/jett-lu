@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation-c](https://github.com/Jett-Lu/airline-reservation-c)**  
-Terminal-based airline reservation system in C with file-based persistence and seat logic.
+> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
+A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
 
-_Last updated: 2026-06-24 14:26 UTC_
+_Last updated: 2026-06-25 14:30 UTC_
 ---
 
 <p align="center">
