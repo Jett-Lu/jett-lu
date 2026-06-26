@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
-A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
+> **[sqlite-airline-management-app](https://github.com/Jett-Lu/sqlite-airline-management-app)**  
+A C# Windows Forms airline management system using SQLite and Entity Framework for booking, seat management, and persistent reservation storage.
 
-_Last updated: 2026-06-25 14:30 UTC_
+_Last updated: 2026-06-26 14:22 UTC_
 ---
 
 <p align="center">
