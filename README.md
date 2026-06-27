@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sqlite-airline-management-app](https://github.com/Jett-Lu/sqlite-airline-management-app)**  
-A C# Windows Forms airline management system using SQLite and Entity Framework for booking, seat management, and persistent reservation storage.
+> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
+Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
 
-_Last updated: 2026-06-26 14:22 UTC_
+_Last updated: 2026-06-27 13:40 UTC_
 ---
 
 <p align="center">
