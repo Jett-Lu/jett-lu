@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
-Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
+> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
+Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
 
-_Last updated: 2026-06-27 13:40 UTC_
+_Last updated: 2026-06-28 13:43 UTC_
 ---
 
 <p align="center">
