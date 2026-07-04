@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
-Prompto, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
+> **[sentinel-log](https://github.com/Jett-Lu/sentinel-log)**  
+Lightweight telemetry logging system built in Python with cloud PostgreSQL, structured architecture, and external API integration.
 
-_Last updated: 2026-07-03 14:00 UTC_
+_Last updated: 2026-07-04 13:22 UTC_
 ---
 
 <p align="center">
