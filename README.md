@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
-A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
+> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
+Prompto, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
 
-_Last updated: 2026-07-05 13:36 UTC_
+_Last updated: 2026-07-06 15:29 UTC_
 ---
 
 <p align="center">
