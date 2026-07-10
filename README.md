@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
-Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
+> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
+Prompto, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
 
-_Last updated: 2026-07-09 14:55 UTC_
+_Last updated: 2026-07-10 14:23 UTC_
 ---
 
 <p align="center">
