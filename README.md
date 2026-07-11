@@ -20,7 +20,7 @@ Refresh tomorrow to see something new.
 > **[speaklio](https://github.com/Jett-Lu/speaklio)**  
 Prompto, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
 
-_Last updated: 2026-07-10 14:23 UTC_
+_Last updated: 2026-07-11 13:16 UTC_
 ---
 
 <p align="center">
