@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
-Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
+> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
+Prompto, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
 
-_Last updated: 2026-07-12 13:16 UTC_
+_Last updated: 2026-07-13 14:30 UTC_
 ---
 
 <p align="center">
