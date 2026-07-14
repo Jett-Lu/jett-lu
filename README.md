@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
-Prompto, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
+> **[jett-lu.github.io](https://github.com/Jett-Lu/jett-lu.github.io)**  
+Portfolio site with GitHub project feed, canvas game, and resume viewer. Built with HTML, CSS, and JS.
 
-_Last updated: 2026-07-13 14:30 UTC_
+_Last updated: 2026-07-14 13:39 UTC_
 ---
 
 <p align="center">
