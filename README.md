@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu.github.io](https://github.com/Jett-Lu/jett-lu.github.io)**  
-Portfolio site with GitHub project feed, canvas game, and resume viewer. Built with HTML, CSS, and JS.
+> **[computer-vision-predictive-surveillance-system](https://github.com/Jett-Lu/computer-vision-predictive-surveillance-system)**  
+Computer vision based predictive surveillance and anomaly detection system using OpenCV and machine learning to identify high risk behaviors and generate real time alerts from video feeds.
 
-_Last updated: 2026-07-14 13:39 UTC_
+_Last updated: 2026-07-15 13:40 UTC_
 ---
 
 <p align="center">
