@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
-Jett’s Magna Badminton Alert is a simple browser extension that monitors https://newmarket.perfectmind.com/ badminton class page and rings + notifies you whenever it’s no longer full.
+> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
+Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
 
-_Last updated: 2026-07-20 14:02 UTC_
+_Last updated: 2026-07-21 13:46 UTC_
 ---
 
 <p align="center">
