@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
-Personal coding workspace & archive for experiments, small projects, and learning logs.
+> **[opencv-anomaly-monitor](https://github.com/Jett-Lu/opencv-anomaly-monitor)**  
+A lightweight computer vision and AI pose-estimation tool for detecting unusual activity in camera or video feeds.
 
-_Last updated: 2026-07-22 13:49 UTC_
+_Last updated: 2026-07-23 13:54 UTC_
 ---
 
 <p align="center">
