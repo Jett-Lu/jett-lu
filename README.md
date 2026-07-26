@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-log](https://github.com/Jett-Lu/sentinel-log)**  
-Lightweight telemetry logging system built in Python with cloud PostgreSQL, structured architecture, and external API integration.
+> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
+Personal coding workspace & archive for experiments, small projects, and learning logs.
 
-_Last updated: 2026-07-25 13:22 UTC_
+_Last updated: 2026-07-26 13:18 UTC_
 ---
 
 <p align="center">
