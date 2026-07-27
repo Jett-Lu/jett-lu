@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
-Personal coding workspace & archive for experiments, small projects, and learning logs.
+> **[visitor-card-tracker](https://github.com/Jett-Lu/visitor-card-tracker)**  
+Standalone Python + Tkinter desktop application that manages sign-outs and returns for visitor and lab access cards. It features an SQLite backend with WAL mode for multi-user network access
 
-_Last updated: 2026-07-26 13:18 UTC_
+_Last updated: 2026-07-27 14:30 UTC_
 ---
 
 <p align="center">
