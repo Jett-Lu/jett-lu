@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[visitor-card-tracker](https://github.com/Jett-Lu/visitor-card-tracker)**  
-Standalone Python + Tkinter desktop application that manages sign-outs and returns for visitor and lab access cards. It features an SQLite backend with WAL mode for multi-user network access
+> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
+Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
 
-_Last updated: 2026-07-27 14:30 UTC_
+_Last updated: 2026-07-28 14:03 UTC_
 ---
 
 <p align="center">
