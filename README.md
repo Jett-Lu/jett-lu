@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
-Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
+> **[mouse-presence](https://github.com/Jett-Lu/mouse-presence)**  
+A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
 
-_Last updated: 2026-07-28 14:03 UTC_
+_Last updated: 2026-07-29 14:06 UTC_
 ---
 
 <p align="center">
