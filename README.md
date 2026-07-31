@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
-Personal coding workspace & archive for experiments, small projects, and learning logs.
+> **[bring-your-own-ai](https://github.com/Jett-Lu/bring-your-own-ai)**  
+Security-first multi-provider AI chat platform with a React frontend and Node.js backend. Users connect their own OpenAI, Anthropic, Google, or local Ollama credentials through a unified conversational interface.
 
-_Last updated: 2026-07-30 13:57 UTC_
+_Last updated: 2026-07-31 14:02 UTC_
 ---
 
 <p align="center">
