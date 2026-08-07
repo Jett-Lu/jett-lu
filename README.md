@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
-Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
+> **[login-authentication-service-cs](https://github.com/Jett-Lu/login-authentication-service-cs)**  
+Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
 
-_Last updated: 2026-08-06 14:04 UTC_
+_Last updated: 2026-08-07 12:59 UTC_
 ---
 
 <p align="center">
