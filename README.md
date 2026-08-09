@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[opencv-anomaly-monitor](https://github.com/Jett-Lu/opencv-anomaly-monitor)**  
-A lightweight computer vision and AI pose-estimation tool for detecting unusual activity in camera or video feeds.
+> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
+A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
 
-_Last updated: 2026-08-08 12:43 UTC_
+_Last updated: 2026-08-09 12:46 UTC_
 ---
 
 <p align="center">
