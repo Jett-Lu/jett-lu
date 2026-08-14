@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[computer-vision-predictive-surveillance-system](https://github.com/Jett-Lu/computer-vision-predictive-surveillance-system)**  
-Computer vision based predictive surveillance and anomaly detection system using OpenCV and machine learning to identify high risk behaviors and generate real time alerts from video feeds.
+> **[login-authentication-service-cs](https://github.com/Jett-Lu/login-authentication-service-cs)**  
+Modular authentication system built in C# using a class library and dual application architecture. Implements secure credential handling and separation of concerns for scalable login flows.
 
-_Last updated: 2026-08-13 13:05 UTC_
+_Last updated: 2026-08-14 13:02 UTC_
 ---
 
 <p align="center">
