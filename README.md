@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[mouse-presence](https://github.com/Jett-Lu/mouse-presence)**  
-A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
+> **[sentinel-log](https://github.com/Jett-Lu/sentinel-log)**  
+Lightweight telemetry logging system built in Python with cloud PostgreSQL, structured architecture, and external API integration.
 
-_Last updated: 2026-08-21 12:42 UTC_
+_Last updated: 2026-08-22 12:35 UTC_
 ---
 
 <p align="center">
