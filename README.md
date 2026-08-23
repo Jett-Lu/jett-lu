@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-log](https://github.com/Jett-Lu/sentinel-log)**  
-Lightweight telemetry logging system built in Python with cloud PostgreSQL, structured architecture, and external API integration.
+> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
+A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
 
-_Last updated: 2026-08-22 12:35 UTC_
+_Last updated: 2026-08-23 12:35 UTC_
 ---
 
 <p align="center">
