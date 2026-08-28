@@ -27,13 +27,11 @@ _Last updated: 2026-08-27 21:48 UTC_
   <strong>About Me</strong><br>
 </p>
 
-```text
 I'm an incoming MEng student in Electrical & Computer Engineering at the University of Toronto with a background in applied AI, software engineering, and systems automation.
 
 Most recently, I worked as an Applied AI Engineer at OLG, building computer vision models, AI-powered automation, and self-healing workflows for enterprise applications. My experience also spans CI/CD, Linux and Windows systems, PowerShell automation, system validation, and deployment across regulated environments.
 
 I enjoy building practical systems across the stack, from AI and computer vision applications to distributed software, automation tooling, and real-time embedded systems.
-```
 
 ---
 <p align="center">
