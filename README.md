@@ -3,7 +3,7 @@
 <h1 align="center">Jett Lu</h1>
 
 <p align="center">
-  <strong>SWE @ McMaster University</strong><br>
+  <strong>MEng Candidate in Electrical & Computer Engineering @ University of Toronto</strong><br>
 </p>
 
 <hr>
@@ -28,12 +28,11 @@ _Last updated: 2026-08-27 21:48 UTC_
 </p>
 
 ```text
-I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
-I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
-to platforms that scale with users.
+I'm an incoming MEng student in Electrical & Computer Engineering at the University of Toronto with a background in applied AI, software engineering, and systems automation.
 
-My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
-I value readable code, meaningful abstractions, and solving the right problems.
+Most recently, I worked as an Applied AI Engineer at OLG, building computer vision models, AI-powered automation, and self-healing workflows for enterprise applications. My experience also spans CI/CD, Linux and Windows systems, PowerShell automation, system validation, and deployment across regulated environments.
+
+I enjoy building practical systems across the stack, from AI and computer vision applications to distributed software, automation tooling, and real-time embedded systems.
 ```
 
 ---
