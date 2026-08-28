@@ -3,7 +3,7 @@
 <h1 align="center">Jett Lu</h1>
 
 <p align="center">
-  <strong>MEng Candidate in Electrical & Computer Engineering @ University of Toronto</strong><br>
+  <strong>SWE @ McMaster University</strong><br>
 </p>
 
 <hr>
@@ -17,21 +17,24 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
- C# Windows Forms airline booking system with real-time seat management and form validation.
+> **[mouse-presence](https://github.com/Jett-Lu/mouse-presence)**  
+A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
 
-_Last updated: 2026-08-27 21:48 UTC_
+_Last updated: 2026-08-28 21:43 UTC_
 ---
 
 <p align="center">
   <strong>About Me</strong><br>
 </p>
 
-I'm an incoming MEng student in Electrical & Computer Engineering at the University of Toronto with a background in applied AI, software engineering, and systems automation.
+```text
+I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
+I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
+to platforms that scale with users.
 
-Most recently, I worked as an Applied AI Engineer at OLG, building computer vision models, AI-powered automation, and self-healing workflows for enterprise applications. My experience also spans CI/CD, Linux and Windows systems, PowerShell automation, system validation, and deployment across regulated environments.
-
-I enjoy building practical systems across the stack, from AI and computer vision applications to distributed software, automation tooling, and real-time embedded systems.
+My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
+I value readable code, meaningful abstractions, and solving the right problems.
+```
 
 ---
 <p align="center">
@@ -39,10 +42,10 @@ I enjoy building practical systems across the stack, from AI and computer vision
 </p>
 
 ```text
-Languages: Python • TypeScript • C • C++ • C# • PowerShell
-AI/ML: TensorFlow • YOLOv8 • OpenCV • MediaPipe • Computer Vision
-Systems: Linux • Azure • CI/CD • Git • Docker • RTOS • Distributed Systems
-Automation: Playwright • Dynatrace • PowerShell • GitHub Actions
+Languages:     Python • JavaScript • C • C++ • C# • Bash • PowerShell
+Frameworks:    .NET • React • Node.js
+Tools:         Git • Docker • GitHub Actions • Selenium • Azure DevOps
+Other:         Web Accessibility (AODA, WCAG), RTOS, CI/CD, Networking, Security+
 ```
 ---
 
