@@ -28,10 +28,12 @@ _Last updated: 2026-08-28 21:43 UTC_
 </p>
 
 ```text
-I'm an MEng student in Electrical & Computer Engineering at the University of Toronto with a background in applied AI, software engineering, and systems automation. I enjoy building practical, reliable
+I'm an MEng student in Electrical & Computer Engineering at the University of Toronto with a background
+in applied AI, software engineering, and systems automation. I enjoy building practical, reliable
 systems that bridge AI, software, and infrastructure.
 
-My interests span computer vision, AI/ML systems, distributed systems, automation, and embedded computing. I like working across the stack, from training and integrating AI models to building back-end
+My interests span computer vision, AI/ML systems, distributed systems, automation, and embedded
+computing. I like working across the stack, from training and integrating AI models to building back-end
 systems, developer tooling, and real-time applications.
 ```
 
