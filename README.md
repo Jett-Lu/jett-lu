@@ -28,12 +28,9 @@ _Last updated: 2026-08-28 21:43 UTC_
 </p>
 
 ```text
-I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
-I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
-to platforms that scale with users.
+I'm an MEng student in Electrical & Computer Engineering at the University of Toronto with a background in applied AI, software engineering, and systems automation. I enjoy building practical, reliable systems that bridge AI, software, and infrastructure.
 
-My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
-I value readable code, meaningful abstractions, and solving the right problems.
+My interests span computer vision, AI/ML systems, distributed systems, automation, and embedded computing. I like working across the stack, from training and integrating AI models to building backend systems, developer tooling, and real-time applications.
 ```
 
 ---
