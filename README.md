@@ -41,10 +41,10 @@ I enjoy building practical systems across the stack, from AI and computer vision
 </p>
 
 ```text
-Languages:     Python • JavaScript • C • C++ • C# • Bash • PowerShell
-Frameworks:    .NET • React • Node.js
-Tools:         Git • Docker • GitHub Actions • Selenium • Azure DevOps
-Other:         Web Accessibility (AODA, WCAG), RTOS, CI/CD, Networking, Security+
+Languages: Python • TypeScript • C • C++ • C# • PowerShell
+AI/ML: TensorFlow • YOLOv8 • OpenCV • MediaPipe • Computer Vision
+Systems: Linux • Azure • CI/CD • Git • Docker • RTOS • Distributed Systems
+Automation: Playwright • Dynatrace • PowerShell • GitHub Actions
 ```
 ---
 
