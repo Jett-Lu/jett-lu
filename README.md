@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[intelli-guard](https://github.com/Jett-Lu/intelli-guard)**  
-Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
+> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
+ C# Windows Forms airline booking system with real-time seat management and form validation.
 
-_Last updated: 2026-08-30 16:05 UTC_
+_Last updated: 2026-08-31 18:47 UTC_
 ---
 
 <p align="center">
