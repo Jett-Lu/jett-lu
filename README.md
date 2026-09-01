@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[airline-reservation2-cs](https://github.com/Jett-Lu/airline-reservation2-cs)**  
- C# Windows Forms airline booking system with real-time seat management and form validation.
+> **[number-guesser-c](https://github.com/Jett-Lu/number-guesser-c)**  
+ Simple number guessing game in C showcasing loops, randomness, and user interaction.
 
-_Last updated: 2026-08-31 18:47 UTC_
+_Last updated: 2026-09-01 16:06 UTC_
 ---
 
 <p align="center">
