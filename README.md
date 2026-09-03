@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[mouse-presence](https://github.com/Jett-Lu/mouse-presence)**  
-A configurable Python application with a Tkinter GUI that simulates natural mouse movement to prevent AFK or idle status. Includes adjustable intervals, waypoints, margins, and real-time controls.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors https://newmarket.perfectmind.com/ badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2026-08-28 21:43 UTC_
+_Last updated: 2026-09-02 15:59 UTC_
 ---
 
 <p align="center">
@@ -28,13 +28,12 @@ _Last updated: 2026-08-28 21:43 UTC_
 </p>
 
 ```text
-I'm an MEng student in Electrical & Computer Engineering at the University of Toronto with a background
-in applied AI, software engineering, and systems automation. I enjoy building practical, reliable
-systems that bridge AI, software, and infrastructure.
+I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
+I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
+to platforms that scale with users.
 
-My interests span computer vision, AI/ML systems, distributed systems, automation, and embedded
-computing. I like working across the stack, from training and integrating AI models to building back-end
-systems, developer tooling, and real-time applications.
+My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
+I value readable code, meaningful abstractions, and solving the right problems.
 ```
 
 ---
