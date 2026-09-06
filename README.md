@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[jett-lu](https://github.com/Jett-Lu/jett-lu)**  
-Personal coding workspace & archive for experiments, small projects, and learning logs.
+> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
+speaklio, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
 
-_Last updated: 2026-09-05 14:37 UTC_
+_Last updated: 2026-09-06 14:57 UTC_
 ---
 
 <p align="center">
