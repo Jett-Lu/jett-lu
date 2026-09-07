@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
-speaklio, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
+> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
+ Modular login system in C# with reusable class library and GUI/console test clients.
 
-_Last updated: 2026-09-06 14:57 UTC_
+_Last updated: 2026-09-07 17:17 UTC_
 ---
 
 <p align="center">
