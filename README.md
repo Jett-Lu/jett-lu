@@ -3,7 +3,7 @@
 <h1 align="center">Jett Lu</h1>
 
 <p align="center">
-  <strong>MEng Candidate, Electrical & Computer Engineering @ University of Toronto</strong><br>
+  <strong>SWE @ McMaster University</strong><br>
 </p>
 
 <hr>
@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[lib-login-authenticator-cs](https://github.com/Jett-Lu/lib-login-authenticator-cs)**  
- Modular login system in C# with reusable class library and GUI/console test clients.
+> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
+speaklio, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
 
-_Last updated: 2026-09-07 17:17 UTC_
+_Last updated: 2026-09-08 16:01 UTC_
 ---
 
 <p align="center">
