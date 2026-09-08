@@ -3,7 +3,7 @@
 <h1 align="center">Jett Lu</h1>
 
 <p align="center">
-  <strong>SWE @ McMaster University</strong><br>
+  <strong>MEng Candidate, Electrical & Computer Engineering @ University of Toronto</strong><br>
 </p>
 
 <hr>
