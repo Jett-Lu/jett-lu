@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
-speaklio, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
+> **[seat-scout](https://github.com/Jett-Lu/seat-scout)**  
+Seat Scout is a Python-based course availability tracker that scrapes registration data, monitors seat changes by CRN, and automatically sends email alerts when spots open. It handles scraping, state tracking, subscriptions, and notifications without requiring user accounts.
 
-_Last updated: 2026-09-08 16:01 UTC_
+_Last updated: 2026-09-09 15:57 UTC_
 ---
 
 <p align="center">
