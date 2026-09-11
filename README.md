@@ -3,58 +3,67 @@
 <h1 align="center">Jett Lu</h1>
 
 <p align="center">
-  <strong>SWE @ McMaster University</strong><br>
+  <strong>MEng Candidate · Electrical & Computer Engineering @ University of Toronto</strong><br>
+  <sub>Software Engineering · AI Systems · Cloud & Infrastructure</sub>
 </p>
 
 <hr>
 
 <p align="center">
-  <strong>Featured Repo (Rotates Daily)</strong><br>
+  <strong>Featured Project · Rotates Daily</strong>
 </p>
 
 ```text
-Each day, a random public project from my GitHub is featured here.
-Refresh tomorrow to see something new.
+Each day, a random featured project from my GitHub is showcased here.
+Check back tomorrow to see something new.
 ```
 
 > **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
-Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
+> Multi-threaded C# client-server application using TCP sockets, concurrent inventory access, and networked request handling.
 
 _Last updated: 2026-09-11 15:54 UTC_
+
 ---
 
 <p align="center">
-  <strong>About Me</strong><br>
+  <strong>About Me</strong>
 </p>
 
 ```text
-I'm a software engineering student with a focus on automation, infrastructure, and clean systems design.
-I enjoy building tools that are practical, reliable, and easy to maintain — from scripts that speed up dev workflows
-to platforms that scale with users.
+MEng Electrical & Computer Engineering candidate at the University of Toronto
+with a background in software engineering and applied AI.
 
-My interests span DevOps, accessibility, embedded systems, and cybersecurity. 
-I value readable code, meaningful abstractions, and solving the right problems.
+I build AI-enabled software, automation, and cloud systems, with experience
+across computer vision, CI/CD, infrastructure, system validation, and
+enterprise engineering environments.
+
+Interested in software engineering, AI systems, distributed systems,
+and hardware-accelerated computing.
 ```
 
 ---
+
 <p align="center">
-  <strong>Tech Stack</strong><br>
+  <strong>Tech Stack</strong>
 </p>
 
 ```text
-Languages:     Python • JavaScript • C • C++ • C# • Bash • PowerShell
-Frameworks:    .NET • React • Node.js
-Tools:         Git • Docker • GitHub Actions • Selenium • Azure DevOps
-Other:         Web Accessibility (AODA, WCAG), RTOS, CI/CD, Networking, Security+
+Languages:      Python • C++ • C# • Java • JavaScript • TypeScript • Bash • PowerShell
+AI / ML:        TensorFlow • YOLO • OpenCV • MediaPipe • Computer Vision
+Frameworks:     React • Next.js • Node.js • .NET
+Cloud / DevOps: Azure • Docker • GitHub Actions • Azure DevOps • CI/CD
+Systems:        Linux • Windows • Networking • RTOS • System Testing
+Other:          Git • Playwright • Dynatrace • AODA/WCAG • Security+
 ```
+
 ---
 
 <p align="center">
-  <strong>Connect</strong><br>
+  <strong>Connect</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jett-lu">LinkedIn</a> |
-  <a href="mailto:jett@example.com">Email</a> |
+  <a href="mailto:Jett.Jiacheng.Lu@gmail.com">Email</a> |
   <a href="Resume-JettLu.pdf">Resume</a>
 </p>
