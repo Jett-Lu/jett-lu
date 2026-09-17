@@ -20,7 +20,7 @@ Refresh tomorrow to see something new.
 > **[seat-scout](https://github.com/Jett-Lu/seat-scout)**  
 Seat Scout is a Python-based course availability tracker that scrapes registration data, monitors seat changes by CRN, and automatically sends email alerts when spots open. It handles scraping, state tracking, subscriptions, and notifications without requiring user accounts.
 
-_Last updated: 2026-09-16 16:11 UTC_
+_Last updated: 2026-09-17 16:17 UTC_
 ---
 
 <p align="center">
