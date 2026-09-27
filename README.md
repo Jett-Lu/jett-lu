@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[intelli-guard](https://github.com/Jett-Lu/intelli-guard)**  
-Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
+> **[opencv-anomaly-monitor](https://github.com/Jett-Lu/opencv-anomaly-monitor)**  
+A lightweight computer vision and AI pose-estimation tool for detecting unusual activity in camera or video feeds.
 
-_Last updated: 2026-09-26 15:50 UTC_
+_Last updated: 2026-09-27 16:26 UTC_
 ---
 
 <p align="center">
