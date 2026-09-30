@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
-speaklio, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors newmarket perfectmind.com badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2026-09-29 17:41 UTC_
+_Last updated: 2026-09-30 17:38 UTC_
 ---
 
 <p align="center">
