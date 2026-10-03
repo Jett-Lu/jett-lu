@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[predictive-surveillance-system](https://github.com/Jett-Lu/predictive-surveillance-system)**  
-Computer vision based predictive surveillance and anomaly detection system using OpenCV and machine learning to identify high risk behaviors and generate real time alerts from video feeds.
+> **[seat-scout](https://github.com/Jett-Lu/seat-scout)**  
+Seat Scout is a Python-based course availability tracker that scrapes registration data, monitors seat changes by CRN, and automatically sends email alerts when spots open. It handles scraping, state tracking, subscriptions, and notifications without requiring user accounts.
 
-_Last updated: 2026-10-02 17:30 UTC_
+_Last updated: 2026-10-03 15:45 UTC_
 ---
 
 <p align="center">
