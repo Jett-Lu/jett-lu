@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[seat-scout](https://github.com/Jett-Lu/seat-scout)**  
-Seat Scout is a Python-based course availability tracker that scrapes registration data, monitors seat changes by CRN, and automatically sends email alerts when spots open. It handles scraping, state tracking, subscriptions, and notifications without requiring user accounts.
+> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
+Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
 
-_Last updated: 2026-10-03 15:45 UTC_
+_Last updated: 2026-10-04 16:28 UTC_
 ---
 
 <p align="center">
