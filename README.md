@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[shopping-client-server-cs](https://github.com/Jett-Lu/shopping-client-server-cs)**  
-Multi-threaded shopping client-server app in C# using sockets and concurrent inventory access.
+> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
+A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
 
-_Last updated: 2026-10-04 16:28 UTC_
+_Last updated: 2026-10-05 20:20 UTC_
 ---
 
 <p align="center">
