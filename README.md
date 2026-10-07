@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
-Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
+> **[bring-your-own-ai](https://github.com/Jett-Lu/bring-your-own-ai)**  
+Security-first multi-provider AI chat platform with a React frontend and Node.js backend. Users connect their own OpenAI, Anthropic, Google, or local Ollama credentials through a unified conversational interface.
 
-_Last updated: 2026-10-06 17:58 UTC_
+_Last updated: 2026-10-07 18:27 UTC_
 ---
 
 <p align="center">
