@@ -3,7 +3,7 @@
 <h1 align="center">Jett Lu</h1>
 
 <p align="center">
-  <strong>MEng ECE Candidate @ University of Toronto</strong>
+  <strong>MEng ECE @ University of Toronto | AI Systems &amp; Software Engineering</strong>
 </p>
 
 ---
@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[bring-your-own-ai](https://github.com/Jett-Lu/bring-your-own-ai)**  
-Security-first multi-provider AI chat platform with a React frontend and Node.js backend. Users connect their own OpenAI, Anthropic, Google, or local Ollama credentials through a unified conversational interface.
+> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
+speaklio, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
 
-_Last updated: 2026-10-07 18:27 UTC_
+_Last updated: 2026-10-08 18:27 UTC_
 
 ---
 
@@ -46,7 +46,19 @@ system validation, and accessibility.
   - Developed CI/CD and testing automation for enterprise laboratory systems, reducing manual testing effort by approximately 75% while supporting data integrity and accessibility compliance.
 - **Systems & Automation Engineering Student | Kinectrics** (Jan - Apr 2023)
   - Built PowerShell test automation and improved deployment reliability across Windows and Linux environments.
-  
+
+### Education
+
+- **University of Toronto** | MEng, Electrical & Computer Engineering (2026 - 2027)
+- **McMaster University** | BTech, Software Engineering Technology (2024 - 2026)
+- **Seneca Polytechnic** | Advanced Diploma, Computer Engineering Technology (2021 - 2024)
+
+### Leadership & Community
+
+- **Vice President, ECE Graduate Students Society, University of Toronto** | Supporting social programming and student engagement; Graduate Students' Union Council Representative.
+- **Founder & President, McMaster Open Source Society** | Led collaborative software projects, Git/GitHub workshops, and technical events.
+- **Student Branch President, IEEE Toronto Section** | Organized technical events and supported member engagement.
+
 ---
 
 <p align="center">
