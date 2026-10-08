@@ -46,19 +46,7 @@ system validation, and accessibility.
   - Developed CI/CD and testing automation for enterprise laboratory systems, reducing manual testing effort by approximately 75% while supporting data integrity and accessibility compliance.
 - **Systems & Automation Engineering Student | Kinectrics** (Jan - Apr 2023)
   - Built PowerShell test automation and improved deployment reliability across Windows and Linux environments.
-
-### Education
-
-- **University of Toronto** | MEng, Electrical & Computer Engineering (2026 - 2027)
-- **McMaster University** | BTech, Software Engineering Technology (2024 - 2026)
-- **Seneca Polytechnic** | Advanced Diploma, Computer Engineering Technology (2021 - 2024)
-
-### Leadership & Community
-
-- **Vice President, ECE Graduate Students Society, University of Toronto** | Supporting social programming and student engagement; Graduate Students' Union Council Representative.
-- **Founder & President, McMaster Open Source Society** | Led collaborative software projects, Git/GitHub workshops, and technical events.
-- **Student Branch President, IEEE Toronto Section** | Organized technical events and supported member engagement.
-
+  
 ---
 
 <p align="center">
