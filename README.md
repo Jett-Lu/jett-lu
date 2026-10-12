@@ -3,7 +3,7 @@
 <h1 align="center">Jett Lu</h1>
 
 <p align="center">
-  <strong>MEng ECE Candidate @ University of Toronto</strong>
+  <strong>MEng ECE @ University of Toronto | AI Systems &amp; Software Engineering</strong>
 </p>
 
 ---
@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
-Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
+> **[opencv-anomaly-monitor](https://github.com/Jett-Lu/opencv-anomaly-monitor)**  
+A lightweight computer vision and AI pose-estimation tool for detecting unusual activity in camera or video feeds.
 
-_Last updated: 2026-10-11 17:22 UTC_
+_Last updated: 2026-10-12 20:56 UTC_
 
 ---
 
