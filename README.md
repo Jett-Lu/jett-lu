@@ -3,7 +3,7 @@
 <h1 align="center">Jett Lu</h1>
 
 <p align="center">
-  <strong>MEng ECE @ University of Toronto | AI Systems &amp; Software Engineering</strong>
+  <strong>MEng ECE Candidate @ University of Toronto</strong>
 </p>
 
 ---
