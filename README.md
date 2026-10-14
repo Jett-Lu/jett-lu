@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
-A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
+> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
+Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
 
-_Last updated: 2026-10-13 18:54 UTC_
+_Last updated: 2026-10-14 16:35 UTC_
 
 ---
 
