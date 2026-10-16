@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[multi-agent-llm-chatroom](https://github.com/Jett-Lu/multi-agent-llm-chatroom)**  
-Agent Roundtable: a secure BYOK LLM gateway and chatroom project built with TypeScript, React, Express, and PostgreSQL. Configurable agent discussions with in-memory credentials and metadata-only usage analytics.
+> **[opencv-anomaly-monitor](https://github.com/Jett-Lu/opencv-anomaly-monitor)**  
+A lightweight computer vision and AI pose-estimation tool for detecting unusual activity in camera or video feeds.
 
-_Last updated: 2026-10-15 16:21 UTC_
+_Last updated: 2026-10-16 16:07 UTC_
 
 ---
 
