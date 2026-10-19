@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
-A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
+> **[multi-agent-llm-chatroom](https://github.com/Jett-Lu/multi-agent-llm-chatroom)**  
+Agent Roundtable: a secure BYOK LLM gateway and chatroom project built with TypeScript, React, Express, and PostgreSQL. Configurable agent discussions with in-memory credentials and metadata-only usage analytics.
 
-_Last updated: 2026-10-18 15:24 UTC_
+_Last updated: 2026-10-19 18:21 UTC_
 
 ---
 
