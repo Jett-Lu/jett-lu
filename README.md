@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[opencv-anomaly-monitor](https://github.com/Jett-Lu/opencv-anomaly-monitor)**  
-A lightweight computer vision and AI pose-estimation tool for detecting unusual activity in camera or video feeds.
+> **[computer-vision-behavioral-analysis](https://github.com/Jett-Lu/computer-vision-behavioral-analysis)**  
+Computer vision based predictive surveillance and anomaly detection system using OpenCV and machine learning to identify high risk behaviors and generate real time alerts from video feeds.
 
-_Last updated: 2026-10-22 16:40 UTC_
+_Last updated: 2026-10-24 15:25 UTC_
 
 ---
 
