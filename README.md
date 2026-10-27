@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[speaklio](https://github.com/Jett-Lu/speaklio)**  
-speaklio, a voice-first AI productivity platform leveraging LLM intent extraction and automated CRUD workflows.
+> **[intelli-guard](https://github.com/Jett-Lu/intelli-guard)**  
+Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
 
-_Last updated: 2026-10-26 18:16 UTC_
+_Last updated: 2026-10-27 17:30 UTC_
 
 ---
 
