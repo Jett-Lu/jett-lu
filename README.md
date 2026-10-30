@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[freertos-emergency-control-system](https://github.com/Jett-Lu/freertos-emergency-control-system)**  
-A FreeRTOS-based real-time embedded control system implementing interrupt-driven emergency handling and deterministic multitasking on an NXP microcontroller.
+> **[seat-scout](https://github.com/Jett-Lu/seat-scout)**  
+Seat Scout is a Python-based course availability tracker that monitors CRN seat openings and automatically sends email alerts without requiring user accounts.
 
-_Last updated: 2026-10-29 18:02 UTC_
+_Last updated: 2026-10-30 17:43 UTC_
 
 ---
 
