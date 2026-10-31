@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[seat-scout](https://github.com/Jett-Lu/seat-scout)**  
-Seat Scout is a Python-based course availability tracker that monitors CRN seat openings and automatically sends email alerts without requiring user accounts.
+> **[sentinel-ai](https://github.com/Jett-Lu/sentinel-ai)**  
+Modular AI chat platform with a React frontend, TypeScript backend, OpenRouter integration.
 
-_Last updated: 2026-10-30 17:43 UTC_
+_Last updated: 2026-10-31 16:51 UTC_
 
 ---
 
