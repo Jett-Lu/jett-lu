@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[multi-agent-llm-chatroom](https://github.com/Jett-Lu/multi-agent-llm-chatroom)**  
-Agent Roundtable: a secure BYOK LLM gateway and chatroom project built with TypeScript, React, Express, and PostgreSQL. Configurable agent discussions with in-memory credentials and metadata-only usage analytics.
+> **[jett-magna-badminton-alert](https://github.com/Jett-Lu/jett-magna-badminton-alert)**  
+Jett’s Magna Badminton Alert is a simple browser extension that monitors newmarket perfectmind.com badminton class page and rings + notifies you whenever it’s no longer full.
 
-_Last updated: 2026-11-11 19:15 UTC_
+_Last updated: 2026-11-12 19:33 UTC_
 
 ---
 
