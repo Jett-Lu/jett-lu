@@ -17,10 +17,10 @@ Each day, a random public project from my GitHub is featured here.
 Refresh tomorrow to see something new.
 ```
 
-> **[computer-vision-behavioral-analysis](https://github.com/Jett-Lu/computer-vision-behavioral-analysis)**  
-Computer vision based predictive surveillance and anomaly detection system using OpenCV and machine learning to identify high risk behaviors and generate real time alerts from video feeds.
+> **[intelli-guard](https://github.com/Jett-Lu/intelli-guard)**  
+Python facial recognition door lock using OpenCV. Designed for lightweight security setups.
 
-_Last updated: 2026-11-18 20:00 UTC_
+_Last updated: 2026-11-19 19:58 UTC_
 
 ---
 
